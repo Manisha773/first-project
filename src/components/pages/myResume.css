@@ -1,0 +1,8 @@
+.card3{
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    background-color:rgb(235, 241, 240);
+    margin-left: 40px;
+    margin-top: 20px;
+    height: 200px;
+    width: 20%;
+}

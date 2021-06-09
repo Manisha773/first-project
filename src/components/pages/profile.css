@@ -1,0 +1,43 @@
+.card_profile {
+    box-shadow: 0 4px 8px 0 rgba(14, 12, 12, 0.2);
+    max-width: 400px;
+    background-color: whitesmoke;
+    height: 500px;
+    box-sizing:border-box;
+    margin-top: 30px;
+    margin-left: 35%;
+    text-align: center;
+    font-family: arial;
+  }
+  
+  .titles {
+    color: rgb(13, 148, 238);
+    font-size: 18px;
+  }
+  
+
+  
+  a {
+    text-decoration: none;
+    font-size: 22px;
+    color: black;
+  }
+  .img-top{
+      width: 220px;
+      height: 250px;
+  }
+  .button {
+    display: inline-block;
+    padding: 15px 25px;
+    font-size: 20px;
+    cursor: pointer;
+    text-align: center;
+    text-decoration: none;
+    outline: none;
+    color: #fff;
+    background-color: #90bfe6;
+    border: none;
+    height: 50px;
+    border-radius: 15px;
+    box-shadow: 0 9px #999;
+  }
